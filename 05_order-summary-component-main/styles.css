@@ -1,0 +1,76 @@
+body {
+    background-image: url('images/pattern-background-desktop.svg');
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.hero {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px
+}
+
+.description {
+    text-align: center;
+    line-height: 2;
+    padding: 30px;
+    background-color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.order-header {
+    color: #7f48c2;
+    ;
+}
+
+
+
+.payment {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #F6F6F6;
+    text-align: center;
+
+}
+
+.music-logo {
+    margin-right: 20px;
+}
+
+.money {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+
+.cancel:hover {
+    color: orangered;
+    cursor: pointer;
+}
+
+.btn {
+    background: #7f48c2;
+    display: inline-block;
+    border-radius: 8px;
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #916BBF;
+    text-decoration: none;
+}
