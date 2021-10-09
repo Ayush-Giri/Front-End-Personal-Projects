@@ -1,0 +1,85 @@
+body {
+    font-family: 'Montserrat',
+        sans-serif;
+    color: whitesmoke;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.sedan-div {
+    background-color: #FFB344;
+    box-sizing: border-box;
+    width: 33.33%;
+    padding: 40px;
+    line-height: 2;
+    float: left;
+}
+
+.suv-div {
+    background-color: #00A19D;
+    box-sizing: border-box;
+    width: 33.33%;
+    padding: 40px;
+    float: left;
+    line-height: 2;
+}
+
+.luxury-div {
+    background-color: #916BBF;
+    box-sizing: border-box;
+    width: 33.33%;
+    padding: 40px;
+    line-height: 2;
+    float: left;
+
+}
+
+.btn-sedan {
+    display: inline-block;
+    border: 1px solid;
+    text-decoration: none;
+    background-color: white;
+    color: #FFB344;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 70%;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.btn-suv {
+    display: inline-block;
+    border: 1px solid;
+    text-decoration: none;
+    background-color: white;
+    color: #00A19D;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 70%;
+    text-align: center;
+    border-radius: 8px;
+
+}
+
+.btn-luxury {
+    display: inline-block;
+    border: 1px solid;
+    text-decoration: none;
+    background-color: white;
+    color: #916BBF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 70%;
+    text-align: center;
+    border-radius: 8px;
+}
