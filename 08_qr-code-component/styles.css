@@ -1,0 +1,40 @@
+body{
+    background-color: #9AD0EC;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.main-container{
+    width: 20%;
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+    position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 40%;
+}
+
+.image-div{
+    width: 90%;
+    margin: auto;
+    padding-top: 13px;
+
+}
+
+.qr-image{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.description-div{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p{
+    padding-bottom: 16px;
+    margin-bottom: 0;
+}
